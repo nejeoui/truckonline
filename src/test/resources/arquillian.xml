@@ -28,7 +28,7 @@
             <property name="managementAddress">127.0.0.1</property>
 						<property name="managementPort">9990</property>
 						<property name="username">admin</property>
-						<property name="password">Su572489</property>
+						<property name="password">nexiens</property>
         </configuration>
     </container>
 </arquillian>
