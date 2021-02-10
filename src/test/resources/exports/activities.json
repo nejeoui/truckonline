@@ -1,0 +1,989 @@
+[
+	{
+		"activity": "REST",
+		"startDate": "2019-07-08T05:06:00Z",
+		"endDate": "2019-07-08T05:12:00Z",
+		"startKm": 37770,
+		"endKm": 37770
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-08T05:12:00Z",
+		"endDate": "2019-07-08T05:14:00Z",
+		"startKm": 37770,
+		"endKm": 37771
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-08T05:14:00Z",
+		"endDate": "2019-07-08T09:31:00Z",
+		"startKm": 37771,
+		"endKm": 38103
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-08T09:31:00Z",
+		"endDate": "2019-07-08T10:18:00Z",
+		"startKm": 38103,
+		"endKm": 38106
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-08T10:18:00Z",
+		"endDate": "2019-07-08T10:33:00Z",
+		"startKm": 38106,
+		"endKm": 38124
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-08T10:33:00Z",
+		"endDate": "2019-07-08T10:35:00Z",
+		"startKm": 38124,
+		"endKm": 38124
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-08T10:35:00Z",
+		"endDate": "2019-07-08T10:37:00Z",
+		"startKm": 38124,
+		"endKm": 38124
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-08T10:37:00Z",
+		"endDate": "2019-07-08T10:40:00Z",
+		"startKm": 38124,
+		"endKm": 38124
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-08T10:40:00Z",
+		"endDate": "2019-07-08T10:45:00Z",
+		"startKm": 38124,
+		"endKm": 38125
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-08T10:45:00Z",
+		"endDate": "2019-07-08T10:47:00Z",
+		"startKm": 38125,
+		"endKm": 38125
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-08T10:47:00Z",
+		"endDate": "2019-07-08T12:03:00Z",
+		"startKm": 38125,
+		"endKm": 38202
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-08T12:03:00Z",
+		"endDate": "2019-07-08T12:13:00Z",
+		"startKm": 38202,
+		"endKm": 38204
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-08T12:13:00Z",
+		"endDate": "2019-07-08T12:14:00Z",
+		"startKm": 38204,
+		"endKm": 38205
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-08T12:14:00Z",
+		"endDate": "2019-07-08T14:22:00Z",
+		"startKm": 38205,
+		"endKm": 38385
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-08T14:22:00Z",
+		"endDate": "2019-07-08T14:36:00Z",
+		"startKm": 38385,
+		"endKm": 38387
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-08T14:36:00Z",
+		"endDate": "2019-07-08T14:57:00Z",
+		"startKm": 38387,
+		"endKm": 38407
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-08T14:57:00Z",
+		"endDate": "2019-07-08T15:24:00Z",
+		"startKm": 38407,
+		"endKm": 38407
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-08T15:24:00Z",
+		"endDate": "2019-07-08T15:26:00Z",
+		"startKm": 38407,
+		"endKm": 38407
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-09T03:55:00Z",
+		"endDate": "2019-07-09T04:02:00Z",
+		"startKm": 38407,
+		"endKm": 38408
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-09T04:02:00Z",
+		"endDate": "2019-07-09T04:31:00Z",
+		"startKm": 38408,
+		"endKm": 38440
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-09T04:31:00Z",
+		"endDate": "2019-07-09T04:37:00Z",
+		"startKm": 38440,
+		"endKm": 38441
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-09T04:37:00Z",
+		"endDate": "2019-07-09T04:43:00Z",
+		"startKm": 38441,
+		"endKm": 38441
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-09T04:43:00Z",
+		"endDate": "2019-07-09T05:04:00Z",
+		"startKm": 38441,
+		"endKm": 38441
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-09T05:04:00Z",
+		"endDate": "2019-07-09T05:21:00Z",
+		"startKm": 38441,
+		"endKm": 38441
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-09T05:21:00Z",
+		"endDate": "2019-07-09T05:51:00Z",
+		"startKm": 38441,
+		"endKm": 38441
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-09T05:51:00Z",
+		"endDate": "2019-07-09T05:57:00Z",
+		"startKm": 38441,
+		"endKm": 38441
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-09T05:57:00Z",
+		"endDate": "2019-07-09T05:59:00Z",
+		"startKm": 38441,
+		"endKm": 38442
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-09T05:59:00Z",
+		"endDate": "2019-07-09T06:07:00Z",
+		"startKm": 38442,
+		"endKm": 38442
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-09T06:07:00Z",
+		"endDate": "2019-07-09T06:11:00Z",
+		"startKm": 38442,
+		"endKm": 38444
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-09T06:11:00Z",
+		"endDate": "2019-07-09T09:53:00Z",
+		"startKm": 38444,
+		"endKm": 38725
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-09T09:53:00Z",
+		"endDate": "2019-07-09T10:25:00Z",
+		"startKm": 38725,
+		"endKm": 38727
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-09T10:25:00Z",
+		"endDate": "2019-07-09T11:22:00Z",
+		"startKm": 38727,
+		"endKm": 38791
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-09T11:22:00Z",
+		"endDate": "2019-07-09T12:13:00Z",
+		"startKm": 38791,
+		"endKm": 38792
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-09T12:13:00Z",
+		"endDate": "2019-07-09T16:17:00Z",
+		"startKm": 38792,
+		"endKm": 39127
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-09T16:17:00Z",
+		"endDate": "2019-07-09T16:27:00Z",
+		"startKm": 39127,
+		"endKm": 39127
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-09T16:27:00Z",
+		"endDate": "2019-07-09T16:29:00Z",
+		"startKm": 39127,
+		"endKm": 39127
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-10T04:54:00Z",
+		"endDate": "2019-07-10T05:04:00Z",
+		"startKm": 39127,
+		"endKm": 39127
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T05:04:00Z",
+		"endDate": "2019-07-10T06:33:00Z",
+		"startKm": 39127,
+		"endKm": 39127
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T06:33:00Z",
+		"endDate": "2019-07-10T06:34:00Z",
+		"startKm": 39127,
+		"endKm": 39127
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T06:34:00Z",
+		"endDate": "2019-07-10T07:18:00Z",
+		"startKm": 39127,
+		"endKm": 39127
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T07:18:00Z",
+		"endDate": "2019-07-10T07:25:00Z",
+		"startKm": 39127,
+		"endKm": 39129
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T07:25:00Z",
+		"endDate": "2019-07-10T07:33:00Z",
+		"startKm": 39129,
+		"endKm": 39130
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T07:33:00Z",
+		"endDate": "2019-07-10T07:35:00Z",
+		"startKm": 39130,
+		"endKm": 39130
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T07:35:00Z",
+		"endDate": "2019-07-10T08:17:00Z",
+		"startKm": 39130,
+		"endKm": 39130
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T08:17:00Z",
+		"endDate": "2019-07-10T08:23:00Z",
+		"startKm": 39130,
+		"endKm": 39132
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T08:23:00Z",
+		"endDate": "2019-07-10T08:36:00Z",
+		"startKm": 39132,
+		"endKm": 39132
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T08:36:00Z",
+		"endDate": "2019-07-10T08:38:00Z",
+		"startKm": 39132,
+		"endKm": 39132
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T08:38:00Z",
+		"endDate": "2019-07-10T08:48:00Z",
+		"startKm": 39132,
+		"endKm": 39132
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T08:48:00Z",
+		"endDate": "2019-07-10T08:50:00Z",
+		"startKm": 39132,
+		"endKm": 39132
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T08:50:00Z",
+		"endDate": "2019-07-10T08:58:00Z",
+		"startKm": 39132,
+		"endKm": 39133
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T08:58:00Z",
+		"endDate": "2019-07-10T09:00:00Z",
+		"startKm": 39133,
+		"endKm": 39133
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T09:00:00Z",
+		"endDate": "2019-07-10T09:08:00Z",
+		"startKm": 39133,
+		"endKm": 39133
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T09:08:00Z",
+		"endDate": "2019-07-10T09:11:00Z",
+		"startKm": 39133,
+		"endKm": 39133
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T09:11:00Z",
+		"endDate": "2019-07-10T09:21:00Z",
+		"startKm": 39133,
+		"endKm": 39133
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T09:21:00Z",
+		"endDate": "2019-07-10T09:22:00Z",
+		"startKm": 39133,
+		"endKm": 39133
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T09:22:00Z",
+		"endDate": "2019-07-10T09:24:00Z",
+		"startKm": 39133,
+		"endKm": 39133
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T09:24:00Z",
+		"endDate": "2019-07-10T09:25:00Z",
+		"startKm": 39133,
+		"endKm": 39133
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T09:25:00Z",
+		"endDate": "2019-07-10T09:36:00Z",
+		"startKm": 39133,
+		"endKm": 39134
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T09:36:00Z",
+		"endDate": "2019-07-10T09:42:00Z",
+		"startKm": 39134,
+		"endKm": 39135
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T09:42:00Z",
+		"endDate": "2019-07-10T09:52:00Z",
+		"startKm": 39135,
+		"endKm": 39135
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T09:52:00Z",
+		"endDate": "2019-07-10T09:54:00Z",
+		"startKm": 39135,
+		"endKm": 39135
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-10T09:54:00Z",
+		"endDate": "2019-07-10T11:53:00Z",
+		"startKm": 39135,
+		"endKm": 39135
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T11:53:00Z",
+		"endDate": "2019-07-10T12:08:00Z",
+		"startKm": 39135,
+		"endKm": 39136
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T12:08:00Z",
+		"endDate": "2019-07-10T14:26:00Z",
+		"startKm": 39136,
+		"endKm": 39327
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-10T14:26:00Z",
+		"endDate": "2019-07-10T14:37:00Z",
+		"startKm": 39327,
+		"endKm": 39328
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-10T14:37:00Z",
+		"endDate": "2019-07-10T16:07:00Z",
+		"startKm": 39328,
+		"endKm": 39428
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-10T16:07:00Z",
+		"endDate": "2019-07-10T16:11:00Z",
+		"startKm": 39428,
+		"endKm": 39428
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-11T04:17:00Z",
+		"endDate": "2019-07-11T04:22:00Z",
+		"startKm": 39428,
+		"endKm": 39429
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T04:22:00Z",
+		"endDate": "2019-07-11T05:36:00Z",
+		"startKm": 39429,
+		"endKm": 39517
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T05:36:00Z",
+		"endDate": "2019-07-11T05:39:00Z",
+		"startKm": 39517,
+		"endKm": 39517
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T05:39:00Z",
+		"endDate": "2019-07-11T05:41:00Z",
+		"startKm": 39517,
+		"endKm": 39517
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T05:41:00Z",
+		"endDate": "2019-07-11T05:54:00Z",
+		"startKm": 39517,
+		"endKm": 39517
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T05:54:00Z",
+		"endDate": "2019-07-11T05:56:00Z",
+		"startKm": 39517,
+		"endKm": 39517
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T05:56:00Z",
+		"endDate": "2019-07-11T06:11:00Z",
+		"startKm": 39517,
+		"endKm": 39518
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T06:11:00Z",
+		"endDate": "2019-07-11T06:18:00Z",
+		"startKm": 39518,
+		"endKm": 39518
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T06:18:00Z",
+		"endDate": "2019-07-11T06:28:00Z",
+		"startKm": 39518,
+		"endKm": 39518
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T06:28:00Z",
+		"endDate": "2019-07-11T06:30:00Z",
+		"startKm": 39518,
+		"endKm": 39518
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T06:30:00Z",
+		"endDate": "2019-07-11T06:32:00Z",
+		"startKm": 39518,
+		"endKm": 39519
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T06:32:00Z",
+		"endDate": "2019-07-11T06:33:00Z",
+		"startKm": 39519,
+		"endKm": 39519
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T06:33:00Z",
+		"endDate": "2019-07-11T06:39:00Z",
+		"startKm": 39519,
+		"endKm": 39519
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T06:39:00Z",
+		"endDate": "2019-07-11T06:40:00Z",
+		"startKm": 39519,
+		"endKm": 39519
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T06:40:00Z",
+		"endDate": "2019-07-11T06:49:00Z",
+		"startKm": 39519,
+		"endKm": 39519
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T06:49:00Z",
+		"endDate": "2019-07-11T06:54:00Z",
+		"startKm": 39519,
+		"endKm": 39519
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T06:54:00Z",
+		"endDate": "2019-07-11T07:01:00Z",
+		"startKm": 39519,
+		"endKm": 39519
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T07:01:00Z",
+		"endDate": "2019-07-11T07:03:00Z",
+		"startKm": 39519,
+		"endKm": 39519
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T07:03:00Z",
+		"endDate": "2019-07-11T07:27:00Z",
+		"startKm": 39519,
+		"endKm": 39520
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T07:27:00Z",
+		"endDate": "2019-07-11T09:47:00Z",
+		"startKm": 39520,
+		"endKm": 39693
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-11T09:47:00Z",
+		"endDate": "2019-07-11T10:51:00Z",
+		"startKm": 39693,
+		"endKm": 39693
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T10:51:00Z",
+		"endDate": "2019-07-11T10:54:00Z",
+		"startKm": 39693,
+		"endKm": 39696
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T10:54:00Z",
+		"endDate": "2019-07-11T11:38:00Z",
+		"startKm": 39696,
+		"endKm": 39739
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T11:38:00Z",
+		"endDate": "2019-07-11T11:41:00Z",
+		"startKm": 39739,
+		"endKm": 39742
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T11:41:00Z",
+		"endDate": "2019-07-11T12:03:00Z",
+		"startKm": 39742,
+		"endKm": 39758
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T12:03:00Z",
+		"endDate": "2019-07-11T12:07:00Z",
+		"startKm": 39758,
+		"endKm": 39760
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T12:07:00Z",
+		"endDate": "2019-07-11T12:18:00Z",
+		"startKm": 39760,
+		"endKm": 39764
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T12:18:00Z",
+		"endDate": "2019-07-11T12:50:00Z",
+		"startKm": 39764,
+		"endKm": 39764
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T12:50:00Z",
+		"endDate": "2019-07-11T12:51:00Z",
+		"startKm": 39764,
+		"endKm": 39764
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T12:51:00Z",
+		"endDate": "2019-07-11T13:00:00Z",
+		"startKm": 39764,
+		"endKm": 39764
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T13:00:00Z",
+		"endDate": "2019-07-11T13:01:00Z",
+		"startKm": 39764,
+		"endKm": 39764
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-11T13:01:00Z",
+		"endDate": "2019-07-11T13:09:00Z",
+		"startKm": 39764,
+		"endKm": 39766
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-11T13:09:00Z",
+		"endDate": "2019-07-11T15:29:00Z",
+		"startKm": 39766,
+		"endKm": 39927
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-11T15:29:00Z",
+		"endDate": "2019-07-11T16:34:00Z",
+		"startKm": 39927,
+		"endKm": 39927
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-11T16:34:00Z",
+		"endDate": "2019-07-11T16:36:00Z",
+		"startKm": 39927,
+		"endKm": 39927
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-12T04:53:00Z",
+		"endDate": "2019-07-12T05:01:00Z",
+		"startKm": 39927,
+		"endKm": 39927
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T05:01:00Z",
+		"endDate": "2019-07-12T05:32:00Z",
+		"startKm": 39927,
+		"endKm": 39927
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-12T05:35:00Z",
+		"endDate": "2019-07-12T05:37:00Z",
+		"startKm": 854133,
+		"endKm": 854133
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T05:37:00Z",
+		"endDate": "2019-07-12T05:41:00Z",
+		"startKm": 854133,
+		"endKm": 854134
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-12T05:41:00Z",
+		"endDate": "2019-07-12T05:42:00Z",
+		"startKm": 854134,
+		"endKm": 854134
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T05:42:00Z",
+		"endDate": "2019-07-12T05:43:00Z",
+		"startKm": 854134,
+		"endKm": 854134
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T05:43:00Z",
+		"endDate": "2019-07-12T05:44:00Z",
+		"startKm": 854134,
+		"endKm": 854135
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-12T05:44:00Z",
+		"endDate": "2019-07-12T05:45:00Z",
+		"startKm": 854135,
+		"endKm": 854135
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T05:45:00Z",
+		"endDate": "2019-07-12T05:54:00Z",
+		"startKm": 854135,
+		"endKm": 854138
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T05:54:00Z",
+		"endDate": "2019-07-12T06:21:00Z",
+		"startKm": 854138,
+		"endKm": 854139
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-12T06:21:00Z",
+		"endDate": "2019-07-12T06:22:00Z",
+		"startKm": 854139,
+		"endKm": 854140
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T06:22:00Z",
+		"endDate": "2019-07-12T06:23:00Z",
+		"startKm": 854140,
+		"endKm": 854140
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T06:23:00Z",
+		"endDate": "2019-07-12T06:39:00Z",
+		"startKm": 854140,
+		"endKm": 854145
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T06:39:00Z",
+		"endDate": "2019-07-12T07:03:00Z",
+		"startKm": 854145,
+		"endKm": 854145
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-12T07:03:00Z",
+		"endDate": "2019-07-12T07:04:00Z",
+		"startKm": 854145,
+		"endKm": 854145
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T07:04:00Z",
+		"endDate": "2019-07-12T08:00:00Z",
+		"startKm": 39927,
+		"endKm": 39928
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T08:00:00Z",
+		"endDate": "2019-07-12T08:02:00Z",
+		"startKm": 39928,
+		"endKm": 39929
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T08:02:00Z",
+		"endDate": "2019-07-12T08:04:00Z",
+		"startKm": 39929,
+		"endKm": 39929
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T08:04:00Z",
+		"endDate": "2019-07-12T08:06:00Z",
+		"startKm": 39929,
+		"endKm": 39929
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T08:06:00Z",
+		"endDate": "2019-07-12T08:12:00Z",
+		"startKm": 39929,
+		"endKm": 39929
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T08:12:00Z",
+		"endDate": "2019-07-12T08:13:00Z",
+		"startKm": 39929,
+		"endKm": 39929
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T08:13:00Z",
+		"endDate": "2019-07-12T08:22:00Z",
+		"startKm": 39929,
+		"endKm": 39929
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T08:22:00Z",
+		"endDate": "2019-07-12T08:26:00Z",
+		"startKm": 39929,
+		"endKm": 39929
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T08:26:00Z",
+		"endDate": "2019-07-12T08:38:00Z",
+		"startKm": 39929,
+		"endKm": 39930
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T08:38:00Z",
+		"endDate": "2019-07-12T08:41:00Z",
+		"startKm": 39930,
+		"endKm": 39930
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T08:41:00Z",
+		"endDate": "2019-07-12T08:43:00Z",
+		"startKm": 39930,
+		"endKm": 39931
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T08:43:00Z",
+		"endDate": "2019-07-12T08:48:00Z",
+		"startKm": 39931,
+		"endKm": 39931
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T08:48:00Z",
+		"endDate": "2019-07-12T08:52:00Z",
+		"startKm": 39931,
+		"endKm": 39931
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-12T08:52:00Z",
+		"endDate": "2019-07-12T08:53:00Z",
+		"startKm": 39931,
+		"endKm": 39931
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T08:57:00Z",
+		"endDate": "2019-07-12T09:01:00Z",
+		"startKm": 854145,
+		"endKm": 854145
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T09:01:00Z",
+		"endDate": "2019-07-12T09:02:00Z",
+		"startKm": 854145,
+		"endKm": 854146
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T09:02:00Z",
+		"endDate": "2019-07-12T09:04:00Z",
+		"startKm": 854146,
+		"endKm": 854146
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T09:04:00Z",
+		"endDate": "2019-07-12T09:14:00Z",
+		"startKm": 854146,
+		"endKm": 854150
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T09:14:00Z",
+		"endDate": "2019-07-12T09:18:00Z",
+		"startKm": 854150,
+		"endKm": 854150
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T09:18:00Z",
+		"endDate": "2019-07-12T09:19:00Z",
+		"startKm": 854150,
+		"endKm": 854150
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T09:19:00Z",
+		"endDate": "2019-07-12T10:05:00Z",
+		"startKm": 854150,
+		"endKm": 854150
+	},
+	{
+		"activity": "DRIVING",
+		"startDate": "2019-07-12T10:05:00Z",
+		"endDate": "2019-07-12T10:15:00Z",
+		"startKm": 854150,
+		"endKm": 854155
+	},
+	{
+		"activity": "WORK",
+		"startDate": "2019-07-12T10:15:00Z",
+		"endDate": "2019-07-12T10:16:00Z",
+		"startKm": 854155,
+		"endKm": 854155
+	},
+	{
+		"activity": "REST",
+		"startDate": "2019-07-12T10:16:00Z",
+		"endDate": "2019-07-12T10:17:00Z",
+		"startKm": 854155,
+		"endKm": 854155
+	}
+]

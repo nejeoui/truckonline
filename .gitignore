@@ -1,0 +1,48 @@
+# Eclipse
+**/.classpath
+**/.project
+**/.settings/
+**/.metadata/
+**/build/
+**/.settings/
+**/.project
+**/.classpath
+**/pom.xml.versionsBackup
+**/deployment
+**/war
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+bin/
+**/pom.xml.versionsBackup
+**/dependency-reduced-pom.xml
+
+# Vim
+*.swp
+
+# Projects
+truckonline-web/src/main/webapp/truckonline/
+truckonline-web/src/main/webapp/login/
+truckonline-web/src/main/gwt-unitCache/
+truckonline-web/src/main/webapp/WEB-INF/deploy/
+truckonline-web/localBuild/
+truckonline-web/war/
+truckonline-integration/bin
+sync-*
+**/deployment
+
+# Ansible
+truckonline-ansible/**/*.retry
+
+# VSCode
+**/.vscode
+**/.factorypath
