@@ -23,17 +23,12 @@ public class ExamServiceImpl implements ExamService {
 	public List<AmplitudeInfo> computeAmplitudes(RequestInfo requestInfo) {
 		List<AmplitudeInfo> amplitudeInfos = new ArrayList<AmplitudeInfo>();
 		List<DriverActivityInfo> rests = new ArrayList<DriverActivityInfo>();
-		int firstRestMin = 0;
-		//First Amplitude special case
 		if (requestInfo.activities.get(0).getActivity().equals(DRIVER_ACTIVITY.REST)) {
-			firstRestMin = calculateMin(requestInfo.activities.get(0).getEndDate(),
-					requestInfo.activities.get(0).getStartDate());
 			requestInfo.activities.remove(0);
 		}
 		for (DriverActivityInfo activity : requestInfo.activities) {
 			append(activity, amplitudeInfos, rests);
 		}
-		amplitudeInfos.get(0).setTotalRestMin(amplitudeInfos.get(0).getTotalRestMin() + firstRestMin);
 		return amplitudeInfos;
 	}
 
